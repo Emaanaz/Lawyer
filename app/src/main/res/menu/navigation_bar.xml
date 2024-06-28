@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_white"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+    <item
+        android:id="@+id/empty"
+        android:orderInCategory="101"
+        android:title=""
+        android:icon="@drawable/ic_filter_list_black_24dp"
+        app:showAsAction="ifRoom|withText">
+        <menu>
+
+            <item
+                android:id="@+id/option_All"
+                android:title="All Lawyers"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Bankruptcy"
+                android:title="Bankruptcy Lawyer"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Criminal"
+                android:title="Criminal Lawyer"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Bank"
+                android:title="Banking &amp; Finance Law"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_ADR"
+                android:title="Alternate Dispute Resolution(A.D.R)"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Civil"
+                android:title="Civil Rights Lawyer"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Constitutional"
+                android:title="Contitutional Lawyer"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Cyber"
+                android:title="Cyber &amp; IT Lawyer"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Documentation"
+                android:title="Documentation Lawyer"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Start_up"
+                android:title="Start Up Company setup Lawyer Lawyer"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Labour"
+                android:title="Employement and Labour Lawyer"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Property"
+                android:title="Property Documentation Lawyer"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Family"
+                android:title="Family Lawyer"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Consultation"
+                android:title="Consultation Lawyer"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/option_Vehicle"
+                android:title="Vehicle Act Lawyer"
+                app:showAsAction="ifRoom" />
+
+        </menu>
+
+    </item>
+</menu>

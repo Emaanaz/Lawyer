@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>Client</item>
+        <item>Lawyer</item>
+    </string-array>
+    <string-array name="planets_array2" >
+        <item>Online Consultation</item>
+        <item>Offline Appointment</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302219027656",
+    "project_id": "lawyer-app-69d22",
+    "storage_bucket": "lawyer-app-69d22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302219027656:android:9dc1297a0eb203ac8471fd",
+        "android_client_info": {
+          "package_name": "com.ensias.healthcareapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYNhagjDSZSziJ8GzpUxqKa5LSt2cEEPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
