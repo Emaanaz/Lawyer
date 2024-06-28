@@ -1,5 +1,8 @@
-Lawyer Consulting Application
-Welcome to the Lawyer Consulting Application repository! This Android application aims to streamline and manage consultations between lawyers and their clients. It offers a range of features to facilitate appointment scheduling, case management, and communication.
+****Lawyer Consulting Application****
+
+
+
+**Welcome to the Lawyer Consulting Application repository! This Android application aims to streamline and manage consultations between lawyers and their clients. It offers a range of features to facilitate appointment scheduling, case management, and communication.**
 
 Table of Contents
 Features
@@ -19,10 +22,6 @@ To run the Lawyer Consulting Application locally using Android Studio, follow th
 
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/lawyer-consulting-app.git
-cd lawyer-consulting-app
 Open in Android Studio:
 
 Open Android Studio.
