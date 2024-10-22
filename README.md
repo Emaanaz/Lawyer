@@ -7,7 +7,7 @@
 
 *Pages*
 
-[![Appointment list](screenshots/Appointment list.jpg)]
+[![Screenshots](Screenshots/Lawyer Home page.jpg)]
 [![Become a patron](pictures/become_a_patron_button.png)](https://www.patreon.com/kalebujordan)
 
 
