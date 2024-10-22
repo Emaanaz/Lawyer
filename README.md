@@ -5,9 +5,10 @@
 **Welcome to the Lawyer Consulting Application repository! This Android application aims to streamline and manage consultations between lawyers and their clients. It offers a range of features to facilitate appointment scheduling, case management, and communication.**
 
 
-**Pages**
+*Pages*
 
-[![Pages](Screenshots/Appointment list.jpg)]
+[![Appointment list](screenshots/Appointment list.jpg)]
+[![Become a patron](pictures/become_a_patron_button.png)](https://www.patreon.com/kalebujordan)
 
 
 
