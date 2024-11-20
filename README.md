@@ -9,7 +9,7 @@
 
 You can download the latest APK version of the app from the link below:
 
-[Download Legel Assist APK](Legel Assist(1).apk)
+[Download Legel Assist APK](Legel Assist (1).apk)
 ---
 
 ----
