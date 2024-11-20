@@ -5,13 +5,15 @@
 **Welcome to the Lawyer Consulting Application repository! This Android application aims to streamline and manage consultations between lawyers and their clients. It offers a range of features to facilitate appointment scheduling, case management, and communication.**
 
 
-## Download APK
+### **APK File [ App ]**
 
 You can download the latest APK version of the app from the link below:
 
-[Download Legel Assist APK](Legel Assist (1).apk)
+[Download Legel Assist APK](Legel Assist(1).apk)
+---
+
 ----
-##Table of Contents
+Table of Contents
 Features
 Installation
 Usage
